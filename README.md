@@ -46,7 +46,7 @@ The [Formidable Forms](https://formidableforms.com/) plugin must be installed an
 
 This plugin is really just a mashup of these two things:
 
-`nicmare` and `welaika` in ACF Support Forums on this thread:
+`nicmare` and @welaika in ACF Support Forums on this thread:
 https://support.advancedcustomfields.com/forums/topic/trick-retrieve-formidable-pro-forms-in-acf/
 
 @stormuk who built a Gravity Forms select plugin (this is basically a fork of that)
